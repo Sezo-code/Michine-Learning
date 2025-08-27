@@ -1,4 +1,4 @@
-# Project Overview
+# My Projects Overview
 
 In this Projects ,i cover the full process of building machine learning projects. 
 This includes creating a hypothesis, setting up the model, and measuring error.
