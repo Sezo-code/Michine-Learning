@@ -1,13 +1,12 @@
 # Project Overview
 
-In this Project ,i cover the full process of building a beginner machine learning project. This includes creating a hypothesis, setting up the model, and measuring error. By the end,  understanding how to build an end-to-end machine learning project using Python and Jupyter.
-
-To make this interesting, we'll use a fun dataset. We'll use data from historical Olympic games. I try to predict how many medals a country will win based on historical and current data.
-
+In this Projects ,i cover the full process of building machine learning projects. 
+This includes creating a hypothesis, setting up the model, and measuring error.
 
 # Machine learning project steps
 
-Most machine learning projects follow a similar outline, which i follow here.  This outline will help  tackle any machine learning problem.
+Most machine learning projects follow a similar outline, which i follow here.  
+This outline will help  tackle any machine learning problem.
 
 **Project Steps**
 
@@ -40,12 +39,3 @@ To follow this project, please install the following locally:
     * numpy
     * scikit-learn
     * seaborn
-
-
-## Data
-
-i use data from the Olympics, which was originally on Kaggle
-
-You can download the files i use in this project here:
-
-* [teams.csv](https://drive.google.com/uc?export=download&id=1L3YAlts8tijccIndVPB-mOsRpEpVawk7) - the team-level data that we use in this project.
